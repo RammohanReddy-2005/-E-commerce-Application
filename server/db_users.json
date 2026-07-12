@@ -1,0 +1,11 @@
+[
+  {
+    "name": "ram mohan",
+    "email": "ram@gmail.com",
+    "password": "$2a$10$iKKyYSZoE9XZ1/wrlC4JZe6pajKhxJmyhTaaZDFAk/iQIYUascf.6",
+    "role": "admin",
+    "_id": "844d1829c01c15b4d4a10000",
+    "createdAt": "2026-07-08T13:44:08.368Z",
+    "updatedAt": "2026-07-08T13:44:08.368Z"
+  }
+]
